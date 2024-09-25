@@ -1,5 +1,5 @@
 # projeto-inicial-fetch-github-api
-Repositório contendo os arquivos iniciais do projeto de Fetch e GitHub API
+Esta API permite que o usuário busque nomes de usuário no GitHub.
 
 ![](./preview.png)
 
