@@ -1,17 +1,13 @@
 # projeto-inicial-fetch-github-api
 Repositório contendo os arquivos iniciais do projeto de Fetch e GitHub API
 
-!(./preview.png)
+![](./preview.png)
 
 ### Built with
 
 - HTML5
 - CSS3
 - JS
-
-### O que eu aprendi
-
-Estou interagindo um pouco mais com o JS, e resolvendo os desafios do front end mentor.
 
 ## Author
 
