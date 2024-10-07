@@ -49,5 +49,7 @@ async function getUserData(userName) {
     user.setEvents(eventsResponse)
     
     screen.renderUser(user)
+
+    console.log(user.events)
     
 }
